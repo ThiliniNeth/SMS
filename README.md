@@ -49,5 +49,5 @@ A web-based Student Management System developed using PHP and MySQL to manage st
 * Student Dashboard
 * Academic Staff Dashboard
 
-Each role has different access and functionalities.
+
 
